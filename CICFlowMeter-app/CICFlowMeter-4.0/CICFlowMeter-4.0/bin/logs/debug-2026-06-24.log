@@ -1,0 +1,315 @@
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\ids\input
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\ids\output
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2026-06-24 19:52:48 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:52:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\prueba.pcap
+2026-06-24 19:53:16 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\ids\input
+2026-06-24 19:53:16 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\ids\output
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2026-06-24 19:53:17 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\prueba.pcap
+2026-06-24 19:53:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\ids\input
+2026-06-24 19:53:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\ids\output
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2026-06-24 19:53:31 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:53:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\prueba.pcap
+2026-06-24 19:56:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\ids\input
+2026-06-24 19:56:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\ids\output
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2026-06-24 19:56:36 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\prueba.pcap
+2026-06-24 19:56:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\pruebaaa.pcap
+2026-06-24 20:03:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\ids\input
+2026-06-24 20:03:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\ids\output
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*24 4b fe 7d  fb f8 14 a5  1a 39 92 f6  08 06 00 01*   $K.}.....9......
+0010: 08 00 06 04  00 01 14 a5  1a 39 92 f6  c0 a8 08 01    .........9......
+0020: 00 00 00 00  00 00 c0 a8  08 64 00 00  00 00 00 00    .........d......
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*14 a5 1a 39  92 f6 24 4b  fe 7d fb f8  08 06 00 01*   ...9..$K.}......
+0010: 08 00 06 04  00 02 24 4b  fe 7d fb f8  c0 a8 08 64    ......$K.}.....d
+0020: 14 a5 1a 39  92 f6 c0 a8  08 01*                      ...9......      
+
+
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\prueba.pcap
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\pruebaaa.pcap
+2026-06-24 20:03:10 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2026-06-24 20:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\ids\input\test.pcap
